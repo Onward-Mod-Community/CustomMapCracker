@@ -25,7 +25,7 @@ Create a new json file containing this information
 
 Fill in `Title`, `Description`, `pub_name`, `map_filesize`, and `ThumbnailUrl` with the appropriate data
  - `pub_name` Should be your in game name
- - `game_modes` Must be the game modes your map supports as a list of strings, you can figure out what numbers coorespond to what modes in [*Game Modes*](#-Game-Modes)
+ - `game_modes` Must be the game modes your map supports as a list of strings, you can figure out what numbers coorespond to what modes in [*Game Modes*](#game-modes)
  - `map_filesize` Should be the filesize of the `.content` file
  - `ThumbnailUrl` must point to a 512x256 image
 
