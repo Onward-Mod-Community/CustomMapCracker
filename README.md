@@ -1,6 +1,6 @@
 # Custom Map Cracker
 
-Allows you to create custom .info file for Onwaard 1.7 custom maps
+Allows you to create custom .info file for Onward 1.7 custom maps
 
 ## Encrypt Instructions
 
